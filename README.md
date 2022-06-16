@@ -12,7 +12,7 @@ Documentation for Reconator
 
 
 <p align="center">
-  <a href="https://github.com/gokulapap/Reconator">
+  <a href="https://github.com/botwolf444/Reconator">
     <img src="https://img.shields.io/badge/release-v1.0-green">
   </a>
    </a>
@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botwolf444/Reconator)
 
 ## 📋 Requirements
 
